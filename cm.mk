@@ -14,5 +14,5 @@ $(call inherit-product, device/xiaomi/pisces/device_pisces.mk)
 PRODUCT_DEVICE := pisces
 PRODUCT_NAME := cm_pisces
 PRODUCT_BRAND := xiaomi
-PRODUCT_MODEL := pisces
+PRODUCT_MODEL := Mi3
 PRODUCT_MANUFACTURER := xiaomi
